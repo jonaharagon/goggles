@@ -1,0 +1,7 @@
+! name: Downrank Sponsored Content
+! description: Downranks paid product reviews and boosts editorially indepdendent content.
+! public: true
+! author: Jonah Aragon
+! homepage: https://github.com/jonaharagon/goggles
+! issues: https://github.com/jonaharagon/goggles/issues
+! avatar: #961a1a
